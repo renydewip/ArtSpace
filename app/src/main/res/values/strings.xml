@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="L1">Crocifissione Di San Pietro</string>
+    <string name="L2">Entombment</string>
+    <string name="L3">Conversione De Saulo</string>
+    <string name="L4"> leda e il Cigno</string>
+    <string name="Creator"> Made By : Michelangelo</string>
+</resources>
